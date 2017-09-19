@@ -1,0 +1,70 @@
+[
+  {
+    "selected" : false,
+    "frame" : "{{0, 0}, {1024, 768}}",
+    "class" : "View",
+    "nodes" : [
+      {
+        "selected" : false,
+        "frame" : "{{245, 161}, {150, 32}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "FA903B54-3DA7-451C-9DEA-8415983839FF",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "James Lee",
+          "name" : "name_label",
+          "font_size" : 18
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{245, 201}, {150, 41}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "7DA0C334-9DF4-4DBD-9E5B-7D2A684E2EF1",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "Ottawa",
+          "name" : "city_label",
+          "font_size" : 18
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{245, 250}, {150, 32}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "568CD9C2-4412-49FC-B9BA-48B6558B3F82",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "Ontario",
+          "name" : "province_label",
+          "font_size" : 18
+        }
+      }
+    ],
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    }
+  }
+]
